@@ -856,8 +856,7 @@ export default function Contact() {
           </div>
 
           <div className="contact-girl-stage" role="img" aria-label="Elegant girl entering from the side, walking, then pointing toward the contact links">
-            <p className="contact-girl-quote">A thoughtful hello<br />can open a door.</p>
-            <span className="contact-girl-quote-label">Contact us</span>
+           
             <div className={`contact-girl-shell ${moving ? "is-moving" : ""}`}>
               <div className="contact-girl-sprite" />
             </div>
